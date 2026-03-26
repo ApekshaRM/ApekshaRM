@@ -1,4 +1,4 @@
-
+![logo](https://github.com/ApekshaRM/ApekshaRM/blob/main/APEX%20banner.gif)
 <h1 align="center">Hi 👋, I'm Apeksha Manwatkar</h1>
 <h3 align="center">Aspiring Operations & Data Analyst | SQL | Technical Coordination | Problem Solver</h3>
 <img align="right" alt="coding" width = "400" src= "https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
